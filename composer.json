@@ -1,0 +1,19 @@
+{
+    "name": "farhanisty/jajal",
+    "description": "learn to publish php library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Farhanisty\\Jajal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "farhanisty",
+            "email": "farhannivtasija@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
